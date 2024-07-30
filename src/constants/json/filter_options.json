@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "type": "contact_type",
+    "option_type": "single",
+    "data": [
+      {
+        "id": 1,
+        "type": "unread",
+        "key": "unread",
+        "title": "Unread",
+        "selected": false
+      },
+      {
+        "id": 2,
+        "type": "unassigned",
+        "key": "unassigned",
+        "title": "Unassigned",
+        "selected": false
+      },
+      {
+        "id": 3,
+        "type": "chatbot",
+        "key": "chatbot",
+        "title": "Chatbot",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "channel",
+    "title": "Channel",
+    "option_type": "single",
+    "data": [
+      {
+        "id": 1,
+        "type": "all",
+        "key": "all",
+        "title": "All Channel",
+        "selected": false
+      },
+      {
+        "id": 2,
+        "type": "whatsapp",
+        "key": "whatsapp",
+        "title": "WhatsApp",
+        "selected": false
+      },
+      {
+        "id": 3,
+        "type": "whatsapp_business",
+        "key": "whatsapp_business",
+        "title": "WhatsApp Business API",
+        "selected": false
+      },
+      {
+        "id": 4,
+        "type": "facebook",
+        "key": "facebook",
+        "title": "Facebook Messager",
+        "selected": false
+      },
+      {
+        "id": 5,
+        "type": "wechat",
+        "key": "wechat",
+        "title": "WeChat",
+        "selected": false
+      }
+    ]
+  }
+]

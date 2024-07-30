@@ -1,0 +1,26 @@
+[
+  {
+    "avatar": "MF",
+    "title": "Mary Foster",
+    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+    "date": "1 Jun, 11:00 AM",
+    "text_color": "#F1B44C",
+    "bg_color": "#FCECD2"
+  },
+  {
+    "avatar": "VS",
+    "title": "Vincent Sullivan",
+    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+    "date": "30 May, 10:00 AM",
+    "text_color": "#2198FA",
+    "bg_color": "#D5ECFF"
+  },
+  {
+    "avatar": "MF",
+    "title": "Mary Foster",
+    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+    "date": "27 May, 09:00 AM",
+    "text_color": "#F1B44C",
+    "bg_color": "#FCECD2"
+  }
+]

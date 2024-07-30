@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://placeimg.com/140/140/any",
+    "title": "Loretta McKenzie",
+    "content": "Lorem ipsum dolor sit amet",
+    "time": "30 mins",
+    "channel": "whatsapp",
+    "read": true
+  },
+  {
+    "id": 2,
+    "avatar": "https://placeimg.com/140/140/any",
+    "title": "Hu Hyon-Suk",
+    "content": "Lorem ipsum dolor sit amet",
+    "time": "30 mins",
+    "channel": "whatsapp",
+    "read": false
+  },
+  {
+    "id": 3,
+    "avatar": "https://placeimg.com/140/140/any",
+    "title": "Hu Hyon-Suk",
+    "content": "Lorem ipsum dolor sit amet",
+    "time": "30 mins",
+    "channel": "facebook",
+    "read": true
+  },
+  {
+    "id": 4,
+    "avatar": "https://placeimg.com/140/140/any",
+    "title": "Hu Hyon-Suk",
+    "content": "Lorem ipsum dolor sit amet",
+    "time": "30 mins",
+    "channel": "facebook",
+    "read": true
+  },
+  {
+    "id": 5,
+    "avatar": "https://placeimg.com/140/140/any",
+    "title": "Hu Hyon-Suk",
+    "content": "Lorem ipsum dolor sit amet",
+    "time": "30 mins",
+    "channel": "wechat",
+    "read": false
+  },
+  {
+    "id": 6,
+    "avatar": "https://placeimg.com/140/140/any",
+    "title": "Hu Hyon-Suk",
+    "content": "Lorem ipsum dolor sit amet",
+    "time": "30 mins",
+    "channel": "wechat",
+    "read": true
+  }
+]

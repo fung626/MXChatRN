@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "user": {
+      "_id": 0,
+      "name": "Loretta McKenzie",
+      "contact": "505-260-3776",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "text": "Hello there. I am Loretta McKenzie, nice to meet you.",
+    "updated": "08:57 PM"
+  },
+  {
+    "id": 1,
+    "user": {
+      "_id": 0,
+      "name": "Loretta McKenzie",
+      "contact": "505-260-3776",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "text": "Hello there.",
+    "updated": "08:57 PM"
+  },
+  {
+    "id": 2,
+    "user": {
+      "_id": 0,
+      "name": "Loretta McKenzie",
+      "contact": "505-260-3776",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "text": "Receive discounts on 70% off",
+    "updated": "08:57 PM"
+  }
+]

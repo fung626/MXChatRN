@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "user": {
+      "_id": 0,
+      "name": "Loretta McKenzie",
+      "contact": "505-260-3776",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": 1,
+    "updated": "08:57 PM",
+    "channel": "whatsapp",
+    "contact_type": "unread"
+  },
+  {
+    "id": 1,
+    "user": {
+      "_id": 1,
+      "name": "Hu Hyon-Suk",
+      "contact": "505-260-3776",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": 2,
+    "updated": "08:57 PM",
+    "channel": "whatsapp",
+    "contact_type": "unread"
+  },
+  {
+    "id": 2,
+    "user": {
+      "_id": 2,
+      "name": "Minerva Higgins",
+      "contact": "willms.zaria@yahoo.com",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": 2,
+    "updated": "08:57 PM",
+    "channel": "whatsapp",
+    "contact_type": "unread"
+  },
+  {
+    "id": 3,
+    "user": {
+      "_id": 3,
+      "name": "Willie Norris",
+      "contact": "581-437-6262",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": null,
+    "updated": "02:44 PM",
+    "channel": "wechat",
+    "contact_type": "new_assigned"
+  },
+  {
+    "id": 4,
+    "user": {
+      "_id": 4,
+      "name": "Belle Holmes",
+      "contact": "860-621-8018",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": null,
+    "updated": "10:12 PM",
+    "channel": "whatsapp_business",
+    "contact_type": null
+  },
+  {
+    "id": 5,
+    "user": {
+      "_id": 5,
+      "name": "Luis Mills",
+      "contact": "067-740-8872",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": null,
+    "updated": "11:06 PM",
+    "channel": "whatsapp_business",
+    "contact_type": null
+  },
+  {
+    "id": 6,
+    "user": {
+      "_id": 6,
+      "name": "Jim McKinney",
+      "contact": "189-561-1838",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": null,
+    "updated": "07:26 PM",
+    "channel": "facebook",
+    "contact_type": null
+  },
+  {
+    "id": 7,
+    "user": {
+      "_id": 7,
+      "name": "Ronnie Wilkins",
+      "contact": "800-528-1951",
+      "avatar": "https://placeimg.com/140/140/any"
+    },
+    "badge": null,
+    "updated": "12:49 AM",
+    "channel": "whatsapp_business",
+    "contact_type": null
+  }
+]

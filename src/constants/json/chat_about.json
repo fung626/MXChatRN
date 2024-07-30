@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "type": "header",
+    "data": {
+      "name": "Loretta McKenzie",
+      "contact": "505-260-3776",
+      "avatar": "https://placeimg.com/140/140/any",
+      "channel": "whatsapp"
+    }
+  },
+  {
+    "id": 1,
+    "type": "info",
+    "data": [
+      {
+        "localizedKey": "phone",
+        "value": "505-260-3776"
+      },
+      {
+        "localizedKey": "email",
+        "value": "debra.patel@gmail.com"
+      },
+      {
+        "localizedKey": "birthday",
+        "value": "1 Jun 1990, 31 years old"
+      },
+      {
+        "localizedKey": "address",
+        "value": "233 Wan Chai Rd, Wan Chai, HK"
+      },
+      {
+        "localizedKey": "country",
+        "value": "Hong Kong"
+      },
+      {
+        "localizedKey": "createdDate",
+        "value": "1 May, 2021"
+      },
+      {
+        "localizedKey": "lastContactFromYou",
+        "value": "September 30, 2021 11:40 PM"
+      },
+      {
+        "localizedKey": "lastContactFromCustomer",
+        "value": "October 1, 2021 10:00 AM"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "notes",
+    "data": [
+      {
+        "avatar": "MF",
+        "title": "Mary Foster",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+        "date": "1 Jun, 11:00 AM",
+        "text_color": "#F1B44C",
+        "bg_color": "#FCECD2"
+      },
+      {
+        "avatar": "VS",
+        "title": "Vincent Sullivan",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+        "date": "30 May, 10:00 AM",
+        "text_color": "#2198FA",
+        "bg_color": "#D5ECFF"
+      },
+      {
+        "avatar": "MF",
+        "title": "Mary Foster",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy",
+        "date": "27 May, 09:00 AM",
+        "text_color": "#F1B44C",
+        "bg_color": "#FCECD2"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "tags",
+    "data": [
+      {
+        "id": "d8bd522c-239c-4e0e-80f4-3fdb090f8fd2",
+        "title": "Using Product",
+        "text_color": "#F1B44C",
+        "bg_color": "#FCECD2"
+      },
+      {
+        "id": "652c4996-373c-453b-ade5-039738612e2e",
+        "title": "Buyer",
+        "text_color": "#5965E3",
+        "bg_color": "#D5DBF8"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "details",
+    "data": [
+      {
+        "title": "Notes",
+        "localizedKey": "notes",
+        "detail": "3",
+        "route": "Notes"
+      }
+    ]
+  }
+]
