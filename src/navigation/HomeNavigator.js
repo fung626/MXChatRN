@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unstable-nested-components */
 import {BackLeftNav} from '@components';
 import {createStackNavigator} from '@react-navigation/stack';
 import AddTagScreen from '@screens/AddTagScreen';
